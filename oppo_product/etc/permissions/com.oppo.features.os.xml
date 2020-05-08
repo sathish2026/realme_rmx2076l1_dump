@@ -1,0 +1,8 @@
+<permissions>
+    <!-- zhangwei1@realmeUI, 2020/01/07, Add for realme Lab. -->
+    <feature name="realme.laboratory.support"/>
+    <!-- wuyulong@realmeOS.APP.SystemUI.UserId#2544607, 2019/11/18, add for display, only for oled screen-->
+    <feature name="oppo.common.support.curved.display" />
+    <!-- gouwei@realmeUI, 2020/02/17, Add for realme freeze. -->
+    <feature name="com.realme.freeze.support" />
+</permissions>
